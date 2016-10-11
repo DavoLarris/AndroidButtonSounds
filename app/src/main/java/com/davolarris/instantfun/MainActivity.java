@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void OnClick(View v) {
 
-        int time = 2;
+        int time = 2000;
 
         // shake it
         if (vibrator.hasVibrator()) {
